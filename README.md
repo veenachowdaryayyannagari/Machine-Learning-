@@ -48,6 +48,4 @@ Implements both classification and regression tasks with interpretable results.
 
 This repository is intended as a learning and demonstration project for applying machine learning techniques on classical datasets using Python’s scientific ecosystem.
 
-This version is ~340 words and GitHub-ready.
 
-Want me to also draft a one-liner tagline (like "End-to-end ML pipeline with ETL, scikit-learn, and visualization on benchmark datasets") for the top of your README?
